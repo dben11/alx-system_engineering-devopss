@@ -1,1 +1,1 @@
-readme.md
+we are writting script on i/o redirections
